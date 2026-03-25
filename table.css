@@ -1,0 +1,17 @@
+table,tr,td,th{
+    background-repeat: no-repeat;
+    border-collapse:collapse;
+    border:solid 2px;
+    padding: 8px;
+    border:solid 2px brown;
+    width:800px;
+    height:80px;
+    font-size:40px;
+    
+}
+table{
+    background-size: cover;
+    background-image: url(Capture\ d\'écran\ 2026-02-14\ 094928.png);
+}
+   
+
